@@ -27,7 +27,7 @@ export default function MainPage() {
         <Row 
           title="Action Movies" 
           id="AM" 
-          fetchUrl={requests.fetchAtionMovies} 
+          fetchUrl={requests.fetchActionMovies} 
         />
         <Row 
           title="Comedy Movies" 
